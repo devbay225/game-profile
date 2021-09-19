@@ -1,4 +1,12 @@
 {
-  "version": 2,
-  "url": "https://wp.mu9.com/game.zip"
+  "base_url": "https://api.nbet.vip/",
+  "base_socket_url": "https://sock.nbet.vip",
+  "base_image_url": "http://web-nb.ignorelist.com",
+  "game-info": [
+      {
+          "id": "ktf1999",
+          "version": 1,
+          "url": "https://wp.mu9.com/game.zip"
+      }
+  ]
 }
