@@ -3,10 +3,11 @@
   "base_socket_url": "https://sock.nbet.com",
   "base_image_url": "http://web-nb.ignorelist.com",
   "base_domain": "https://nbet.vip",
+  "brand_name": "NBET",
   "games_info": [
-      {
-          "id": "ktf1999",
-          "url": "https://games.mt-sta.com/download/game-ktf1999.zip"
-      }
+    {
+      "id": "ktf1999",
+      "url": "https://games.mt-sta.com/download/game-ktf1999.zip"
+    }
   ]
 }
