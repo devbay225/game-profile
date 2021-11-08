@@ -6,12 +6,29 @@
   "brand_name": "NBET",
   "games_info": [
     {
-      "id": "ktf1999",
-      "url": "https://games.mt-sta.com/download/game-ktf1999.zip"
+      "id": "ktf1990",
+      "url": "https://games.mt-sta.com/download/game-ktf1990.zip",
+      "orientation": 1
     },
     {
-      "id": "ktf1990",
-      "url": "https://games.mt-sta.com/download/game-ktf1990.zip"
+      "id": "ktf1992",
+      "url": "https://games.mt-sta.com/download/game-ktf1992.zip",
+      "orientation": 0
+    },
+    {
+      "id": "ktf1993",
+      "url": "https://games.mt-sta.com/download/game-ktf1993.zip",
+      "orientation": 0
+    },
+    {
+      "id": "ktf1998",
+      "url": "https://games.mt-sta.com/download/game-ktf1998.zip",
+      "orientation": 0
+    },
+    {
+      "id": "ktf1999",
+      "url": "https://games.mt-sta.com/download/game-ktf1999.zip",
+      "orientation": 0
     }
   ]
 }
