@@ -39,7 +39,8 @@
       "id": "ktf1999",
       "url": "https://games.mt-sta.com/download/game-ktf1999.zip",
       "orientation": 0,
-      "versionCode": 1
+      "versionCode": 3,
+      "token":"rob2"
     }
   ]
 }
