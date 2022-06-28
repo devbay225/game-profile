@@ -1,1 +1,8 @@
 
+{
+  "url": "https://stg.mu9.com/",
+  "api_url": "https://stg-api.mu9.com/",
+  "socket_url": "wss://stg-sock.mu9.com",
+  "phone_contact": "tel:+84399021123",
+  "phone_number": "0934111123"
+}
