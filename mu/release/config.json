@@ -2,7 +2,7 @@
 {
   "url": "https://mu9.fun/",
   "api_url": "https://api.mu9.fun/",
-  "socket_url": "wss://sock.mu9.fun",
+  "socket_url": "wss://sock.mu9.fun/",
   "phone_contact": "tel:+84399021123",
   "phone_number": "0934111123",
   "hlUK": "+441613910999",
