@@ -3,5 +3,6 @@
   "base_socket_url": "https://sock.nbet.top",
   "base_image_url": "http://web-nb.ignorelist.com",
   "base_domain": "https://nbet.top/",
-  "brand_name": "NBET"
+  "brand_name": "NBET",
+  "base_url_event": "https://nbet.top/"
 }
