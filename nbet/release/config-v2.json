@@ -1,0 +1,6 @@
+{
+  "base_domain": "https://nbet.top/",
+  "api_url": "https://api.nbet.top",
+  "socket_url": "https://sock.nbet.top",
+  "event_api_url": "https://api-nb.seaoutwindow.xyz"
+}
