@@ -2,5 +2,6 @@
   "base_domain": "https://stg.nbet.com/",
   "api_url": "https://api.nbet.com",
   "socket_url": "https://sock.nbet.com",
-  "event_api_url": "https://api-nb.seaoutwindow.xyz"
+  "event_api_url": "https://api-nb.seaoutwindow.xyz",
+  "min_version_accept": 2
 }
