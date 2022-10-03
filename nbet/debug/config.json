@@ -3,5 +3,6 @@
   "api_url": "https://api.nbet.com",
   "socket_url": "https://sock.nbet.com",
   "event_api_url": "https://api-nb.seaoutwindow.xyz",
-  "min_version_accept": 1
+  "min_version_accept": 1,
+  "fake_game_state": 0,
 }
