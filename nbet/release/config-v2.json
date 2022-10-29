@@ -4,5 +4,5 @@
   "socket_url": "https://sock.nbet.top",
   "event_api_url": "https://api-nb.seaoutwindow.xyz",
   "min_version_accept": 1,
-  "fake_game_state": 2
+  "fake_game_state": 1
 }
