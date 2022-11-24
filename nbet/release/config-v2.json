@@ -1,9 +1,9 @@
 {
-  "base_domain": "https://nbet.top/",
-  "api_url": "https://api.nbet.top",
-  "socket_url": "https://sock.nbet.top",
-  "event_api_url": "https://api-nb.seaoutwindow.xyz",
+  "base_domain": "https://nbet.club/",
+  "api_url": "https://api.nbet.club",
+  "socket_url": "https://sock.nbet.club",
+  "event_api_url": "https://api.nbet.club",
   "min_version_accept": 1,
   "fake_game_state": 2,
-  "cocos_url": "https://app.nbet.top/zip/game-cocos.zip"
+  "cocos_url": "https://app.nbet.club/zip/game-cocos.zip"
 }
