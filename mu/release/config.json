@@ -1,13 +1,13 @@
 
 {
-  "url": "https://mu9.fun/",
-  "api_url": "https://api.mu9.fun/",
-  "socket_url": "wss://sock.mu9.fun/",
+  "url": "https://mu9.club/",
+  "api_url": "https://api.mu9.club/",
+  "socket_url": "wss://sock.mu9.club/",
   "phone_contact": "tel:+84399021123",
   "phone_number": "0934111123",
-  "event_url": "https://event.mu9.fun/",
+  "event_url": "https://event.mu9.club/",
   "hlUK": "+441613910999",
   "hlVN": "+84335337777",
-  "cocosUrl": "https://wp.mu9.fun/wp-content/uploads/2022/08/game-cocos.zip",
+  "cocosUrl": "https://wp.mu9.club/wp-content/uploads/2022/08/game-cocos.zip",
   "cocosState": 0
 }
