@@ -1,13 +1,13 @@
 
 {
-  "url": "https://mu9.club/",
-  "api_url": "https://api.mu9.club/",
-  "socket_url": "wss://sock.mu9.club/",
+  "url": "https://mu9.bet/",
+  "api_url": "https://api.mu9.bet/",
+  "socket_url": "wss://sock.mu9.bet/",
   "phone_contact": "tel:+84399021123",
   "phone_number": "0934111123",
-  "event_url": "https://event.mu9.club/",
+  "event_url": "https://event.mu9.bet/",
   "hlUK": "+441613910999",
   "hlVN": "+84335337777",
-  "cocosUrl": "https://wp.mu9.club/wp-content/uploads/2022/08/game-cocos.zip",
+  "cocosUrl": "https://wp.mu9.bet/wp-content/uploads/2022/08/game-cocos.zip",
   "cocosState": 0
 }
