@@ -3,7 +3,7 @@
   "api_url": "https://api.nbet.fun",
   "socket_url": "https://sock.nbet.fun",
   "event_api_url": "https://api.nbet.fun",
-  "min_version_accept": 1,
+  "min_version_accept": 3,
   "fake_game_state": 2,
   "cocos_url": "https://app.nbet.fun/zip/game-cocos.zip"
 }
